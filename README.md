@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/vac0453/CiCdExercise/_apis/build/status/vallabbharath.pipelines-java?branchName=master)](https://dev.azure.com/vac0453/CiCdExercise/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
